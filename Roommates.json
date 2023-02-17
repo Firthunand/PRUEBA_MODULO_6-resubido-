@@ -1,0 +1,13 @@
+{
+    "roommates": [{
+        "id": "50b9cb",
+        "nombre": "Diëgo Hobbelink",
+        "debe": 524,
+        "recibe": 1030
+    }, {
+        "id": "7b8ee8",
+        "nombre": "Ranveer Bhat",
+        "debe": 668,
+        "recibe": 1155
+    }]
+}
